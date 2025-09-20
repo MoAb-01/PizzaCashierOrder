@@ -1,0 +1,11 @@
+E:\OrderYourPizza\OrderYourPizza\bin\Debug\OrderYourPizza.exe.config
+E:\OrderYourPizza\OrderYourPizza\bin\Debug\OrderYourPizza.exe
+E:\OrderYourPizza\OrderYourPizza\bin\Debug\OrderYourPizza.pdb
+E:\OrderYourPizza\OrderYourPizza\obj\Debug\OrderYourPizza.csproj.AssemblyReference.cache
+E:\OrderYourPizza\OrderYourPizza\obj\Debug\OrderYourPizza.Properties.Resources.resources
+E:\OrderYourPizza\OrderYourPizza\obj\Debug\OrderYourPizza.csproj.GenerateResource.cache
+E:\OrderYourPizza\OrderYourPizza\obj\Debug\OrderYourPizza.csproj.CoreCompileInputs.cache
+E:\OrderYourPizza\OrderYourPizza\obj\Debug\OrderYourPizza.exe
+E:\OrderYourPizza\OrderYourPizza\obj\Debug\OrderYourPizza.pdb
+E:\OrderYourPizza\OrderYourPizza\obj\Debug\OrderYourPizza.FrmMain.resources
+E:\OrderYourPizza\OrderYourPizza\obj\Debug\OrderYourPizza.welcome.resources
